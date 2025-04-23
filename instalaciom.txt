@@ -1,0 +1,10 @@
+ejecutar esto en la consola de r para instalar correctamente la libreria
+1.-setwd("C:/ruta/del/paquete/GeneradorAleatorio")
+2.-devtools::document()
+devtools::build()
+3.-Esto generará un archivo como:
+GeneradorAleatorio_0.1.0.tar.gz
+4.-install.packages("GeneradorAleatorio_0.1.0.tar.gz", repos = NULL, type = "source")
+el archivo 3 que te dará lo reemplazas en el comando 4 anterior 
+y con eso tendrías todo instalado correctamente
+
