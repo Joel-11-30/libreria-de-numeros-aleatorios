@@ -1,0 +1,6 @@
+export(generador_gcl)
+export(generar_uniformes)
+export(generar_normales)
+export(generar_binomiales)
+export(generar_exponenciales)
+export(generar_poisson)
